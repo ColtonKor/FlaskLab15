@@ -1,7 +1,7 @@
 from flask import Flask, render_template
 from flask_bootstrap import Bootstrap5
 
-#GitHub Link: 
+#GitHub Link: https://github.com/ColtonKor/FlaskLab15
 
 # create an instance of Flask
 app = Flask(__name__)
